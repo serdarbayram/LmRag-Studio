@@ -1,3 +1,6 @@
+
+![1768034019 jpglm rag](https://github.com/user-attachments/assets/e908b621-e2fd-45de-a22b-5601ca16f3e7)
+
 English description
 
 LmRag-Studio
